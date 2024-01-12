@@ -179,7 +179,7 @@ streamlit run streamlit_interface.py
 
 ## 🛣 Project Screenshots
 
-![Walmart_Bot Screenshot](https://raw.githubusercontent.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/main/Images/walmart_bot-screenshot.png)
+![Walmart_Bot Screenshot](https://raw.githubusercontent.com/Shaon2221/Walmart-SalesBot-and-SearchGPT/main/Images/walmart_bot-screensot.png)
 
 ---
 
